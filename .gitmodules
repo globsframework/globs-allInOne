@@ -1,0 +1,39 @@
+[submodule "globsframework"]
+	path = globsframework
+	url = git@github.com:MarcGuiot/globsframework.git
+[submodule "globs-commandline"]
+	path = globs-commandline
+	url = git@github.com:MarcGuiot/globs-commandline.git
+[submodule "globs-db"]
+	path = globs-db
+	url = git@github.com:MarcGuiot/globs-db.git
+[submodule "globs-view"]
+	path = globs-view
+	url = git@github.com:MarcGuiot/globs-view.git
+[submodule "globs-graphql"]
+	path = globs-graphql
+	url = git@github.com:MarcGuiot/globs-graphql.git
+[submodule "globs-csv"]
+	path = globs-csv
+	url = git@github.com:MarcGuiot/globs-csv.git
+[submodule "globs-xml"]
+	path = globs-xml
+	url = git@github.com:MarcGuiot/globs-xml.git
+[submodule "globs-http"]
+	path = globs-http
+	url = git@github.com:MarcGuiot/globs-http.git
+[submodule "globs-gson"]
+	path = globs-gson
+	url = git@github.com:MarcGuiot/globs-gson.git
+[submodule "globs-generate"]
+	path = globs-generate
+	url = git@github.com:MarcGuiot/globs-generate.git
+[submodule "globs-bin-serialisation"]
+	path = globs-bin-serialisation
+	url = git@github.com:MarcGuiot/globs-bin-serialisation.git
+[submodule "saxstack"]
+	path = saxstack
+	url = git@github.com:MarcGuiot/saxstack.git
+[submodule "globs-examples"]
+	path = globs-examples
+	url = git@github.com:MarcGuiot/globs-examples.git
