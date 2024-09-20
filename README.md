@@ -1,10 +1,10 @@
 This repository use git submodule on globs libraries.
 
-Use command : 
+Use command :
 
 ```git clone --recursive  git@github.com:MarcGuiot/allInOne.git ```
 
-then run : 
+then run :
 
 ```mvn clean install```
 
