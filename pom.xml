@@ -13,9 +13,9 @@
     <modules>
         <module>saxstack</module>
         <module>globsframework</module>
+        <module>globs-generate</module>
         <module>globs-gson</module>
         <module>globs-http</module>
-        <module>globs-generate</module>
         <module>globs-bin-serialisation</module>
         <module>globs-xml</module>
         <module>globs-db</module>
