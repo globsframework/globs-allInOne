@@ -2,7 +2,7 @@ This repository use git submodule on globs libraries.
 
 Use command :
 
-```git clone --recursive  git@github.com:MarcGuiot/globs-allInOne.git ```
+```git clone --recursive  https://github.com/MarcGuiot/globs-allInOne.git ```
 
 then run :
 
