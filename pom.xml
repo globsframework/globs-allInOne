@@ -23,7 +23,7 @@
         <module>globs-commandline</module>
         <module>globs-view</module>
         <module>globs-graphql</module>
-        <module>globs-examples/simplest</module>
+        <module>globs-examples</module>
     </modules>
 
 </project>
