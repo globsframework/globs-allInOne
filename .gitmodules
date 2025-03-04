@@ -1,39 +1,39 @@
 [submodule "globsframework"]
 	path = globsframework
-	url = https://github.com/MarcGuiot/globsframework.git
+	url = https://github.com/globsframework/globsframework.git
 [submodule "globs-commandline"]
 	path = globs-commandline
-	url = https://github.com/MarcGuiot/globs-commandline.git
+	url = https://github.com/globsframework/globs-commandline.git
 [submodule "globs-db"]
 	path = globs-db
-	url = https://github.com/MarcGuiot/globs-db.git
+	url = https://github.com/globsframework/globs-db.git
 [submodule "globs-view"]
 	path = globs-view
-	url = https://github.com/MarcGuiot/globs-view.git
+	url = https://github.com/globsframework/globs-view.git
 [submodule "globs-graphql"]
 	path = globs-graphql
-	url = https://github.com/MarcGuiot/globs-graphql.git
+	url = https://github.com/globsframework/globs-graphql.git
 [submodule "globs-csv"]
 	path = globs-csv
-	url = https://github.com/MarcGuiot/globs-csv.git
+	url = https://github.com/globsframework/globs-csv.git
 [submodule "globs-xml"]
 	path = globs-xml
-	url = https://github.com/MarcGuiot/globs-xml.git
+	url = https://github.com/globsframework/globs-xml.git
 [submodule "globs-http"]
 	path = globs-http
-	url = https://github.com/MarcGuiot/globs-http.git
+	url = https://github.com/globsframework/globs-http.git
 [submodule "globs-gson"]
 	path = globs-gson
-	url = https://github.com/MarcGuiot/globs-gson.git
+	url = https://github.com/globsframework/globs-gson.git
 [submodule "globs-generate"]
 	path = globs-generate
-	url = https://github.com/MarcGuiot/globs-generate.git
+	url = https://github.com/globsframework/globs-generate.git
 [submodule "globs-bin-serialisation"]
 	path = globs-bin-serialisation
-	url = https://github.com/MarcGuiot/globs-bin-serialisation.git
+	url = https://github.com/globsframework/globs-bin-serialisation.git
 [submodule "saxstack"]
 	path = saxstack
-	url = https://github.com/MarcGuiot/saxstack.git
+	url = https://github.com/globsframework/saxstack.git
 [submodule "globs-examples"]
 	path = globs-examples
-	url = https://github.com/MarcGuiot/globs-examples.git
+	url = https://github.com/globsframework/globs-examples.git
