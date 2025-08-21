@@ -37,3 +37,9 @@
 [submodule "globs-examples"]
 	path = globs-examples
 	url = https://github.com/globsframework/globs-examples.git
+[submodule "globs-off-heap"]
+	path = globs-off-heap
+	url = https://github.com/globsframework/globs-off-heap
+[submodule "globs-rpc-direct"]
+	path = globs-rpc-direct
+	url = https://github.com/globsframework/globs-rpc-direct
