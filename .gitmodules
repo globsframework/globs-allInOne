@@ -1,64 +1,64 @@
 [submodule "globsframework"]
 	path = globsframework
 	url = https://github.com/globsframework/globsframework.git
-	branch=main
+	branch = main
 [submodule "globs-commandline"]
 	path = globs-commandline
 	url = https://github.com/globsframework/globs-commandline.git
-	branch=main
+	branch = main
 [submodule "globs-db"]
 	path = globs-db
 	url = https://github.com/globsframework/globs-db.git
-	branch=main
+	branch = main
 [submodule "globs-view"]
 	path = globs-view
 	url = https://github.com/globsframework/globs-view.git
-	branch=main
+	branch = main
 [submodule "globs-graphql"]
 	path = globs-graphql
 	url = https://github.com/globsframework/globs-graphql.git
-	branch=main
+	branch = main
 [submodule "globs-csv"]
 	path = globs-csv
 	url = https://github.com/globsframework/globs-csv.git
-	branch=main
+	branch = main
 [submodule "globs-xml"]
 	path = globs-xml
 	url = https://github.com/globsframework/globs-xml.git
-	branch=main
+	branch = main
 [submodule "globs-http"]
 	path = globs-http
 	url = https://github.com/globsframework/globs-http.git
-	branch=main
+	branch = main
 [submodule "globs-gson"]
 	path = globs-gson
 	url = https://github.com/globsframework/globs-gson.git
-	branch=main
+	branch = main
 [submodule "globs-generate"]
 	path = globs-generate
 	url = https://github.com/globsframework/globs-generate.git
-	branch=main
+	branch = main
 [submodule "globs-bin-serialisation"]
 	path = globs-bin-serialisation
 	url = https://github.com/globsframework/globs-bin-serialisation.git
-	branch=main
+	branch = main
 [submodule "saxstack"]
 	path = saxstack
 	url = https://github.com/globsframework/saxstack.git
-	branch=main
+	branch = main
 [submodule "globs-examples"]
 	path = globs-examples
 	url = https://github.com/globsframework/globs-examples.git
-	branch=main
+	branch = main
 [submodule "globs-off-heap"]
 	path = globs-off-heap
 	url = https://github.com/globsframework/globs-off-heap
-	branch=main
+	branch = main
 [submodule "globs-rpc-direct"]
 	path = globs-rpc-direct
 	url = https://github.com/globsframework/globs-rpc-direct
-	branch=main
+	branch = main
 [submodule "globs-protobuf"]
 	path = globs-protobuf
 	url = https://github.com/globsframework/globs-protobuf.git
-	branch=main
+	branch = main
