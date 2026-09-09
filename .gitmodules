@@ -43,3 +43,6 @@
 [submodule "globs-rpc-direct"]
 	path = globs-rpc-direct
 	url = https://github.com/globsframework/globs-rpc-direct
+[submodule "globs-protobuf"]
+	path = globs-protobuf
+	url = https://github.com/globsframework/globs-protobuf.git
