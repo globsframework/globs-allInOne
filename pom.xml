@@ -17,6 +17,7 @@
         <module>globs-gson</module>
         <module>globs-http</module>
         <module>globs-bin-serialisation</module>
+        <module>globs-protobuf</module>
         <module>globs-xml</module>
         <module>globs-db</module>
         <module>globs-csv</module>
